@@ -46,4 +46,4 @@ features. Another scatterplot with principal components was used to confirm and
 visualize how good our features were at prediciting our target variables. Last,
 decision tree was plotted in order to understand how the algorithm predict wine
 rating.Throughout this project, I want to acknowledge UCI ML repository for the
-dataset. I also used a lot of codes we went through this lesson at udacity.
+dataset. I also used a lot of codes we went through this lesson at udacity. 
